@@ -1,4 +1,4 @@
-Este es mi primer proyecto con Git.
+Este es mi primer proyecto con Git y se integra con GitHub.
 
 Linea escrita despúes de haber revertido un proceso.
 
